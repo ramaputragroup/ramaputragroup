@@ -21,7 +21,7 @@
   <text x="8" y="69" xml:space="preserve" class="logo">(_) |   |</text>
   <text x="117" y="69" xml:space="preserve"><tspan class="title">kernel    </tspan><tspan class="val">7.0.0-1017-azure (x86_64)</tspan></text>
   <text x="8" y="85" xml:space="preserve" class="logo">  \  --- _/</text>
-  <text x="117" y="85" xml:space="preserve"><tspan class="title">uptime    </tspan><tspan class="val">30d 17h 39m</tspan></text>
+  <text x="117" y="85" xml:space="preserve"><tspan class="title">uptime    </tspan><tspan class="val">1mo 0d 22h</tspan></text>
   <text x="8" y="101" xml:space="preserve" class="logo">     ---(_)</text>
   <text x="117" y="101" xml:space="preserve"><tspan class="title">pkgs      </tspan><tspan class="val">1 Pub</tspan></text>
   <text x="117" y="117" xml:space="preserve"><tspan class="title">memory    </tspan><tspan class="val">1040MiB / 15983MiB (6.5%)</tspan></text>
